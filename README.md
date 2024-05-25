@@ -9,6 +9,7 @@ Welcome to the STL Sounds Email Newsletter project! This repository contains the
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Usage](#usage)
+- [Deployed Email](#deployed-email)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -39,6 +40,10 @@ The STL Sounds Email Newsletter project aims to deliver visually appealing and i
 ## Usage
 
 Feel free to use and customize the code in this repository for your own email newsletter projects. Whether it's for personal or professional use, you're welcome to modify the content, styles, and images to suit your needs. Have fun creating engaging email newsletters!
+
+## Deployed Email
+
+Check out the deployed STL Sounds Email Newsletter [here](https://brandonplummer.com/STL_Sounds/) to see it in action!
 
 ## Contributing
 
